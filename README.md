@@ -1,6 +1,6 @@
-# Arquitetura Escalável e Resiliente do WordPress na AWS com Docker
+# Projeto-Docker-PB-DevSecOps-JUN2024
 
-Este repositório contém um guia completo para configurar uma arquitetura escalável e resiliente do WordPress na AWS usando Docker. A arquitetura foi projetada para garantir alta disponibilidade, escalabilidade e segurança, aproveitando serviços da AWS como EC2, RDS, EFS, Auto Scaling Groups e contêineres Docker.
+Este repositório contém um guia completo da atividade para configurar uma arquitetura escalável e resiliente do WordPress na AWS usando Docker. A arquitetura foi projetada para garantir alta disponibilidade, escalabilidade e segurança, aproveitando serviços da AWS como EC2, RDS, EFS, Auto Scaling Groups e contêineres Docker.
 
 ## Índice
 
